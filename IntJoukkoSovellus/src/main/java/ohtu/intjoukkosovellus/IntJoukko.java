@@ -105,22 +105,25 @@ public class IntJoukko {
         return alkioidenLkm;
     }
 
+
     @Override
     public String toString() {
-        if (alkioidenLkm == 0) {
-            return "{}";
-        } else if (alkioidenLkm == 1) {
-            return "{" + ljono[0] + "}";
-        } else {
-            String tuotos = "{";
-            for (int i = 0; i < alkioidenLkm - 1; i++) {
-                tuotos += ljono[i];
-                tuotos += ", ";
+        String tuloste = "{";
+        if(alkioidenLkm > 0) {
+            for (int i = 0; i < alkioidenLkm; i++) {
+                tuloste += ljono[i];
+                tuloste = pilkku(i, tuloste);
             }
-            tuotos += ljono[alkioidenLkm - 1];
-            tuotos += "}";
-            return tuotos;
         }
+        tuloste += "}";
+        return tuloste;
+    }
+
+    public String pilkku(int i, String jono) {
+        if (i < alkioidenLkm - 1) {
+            jono += ", ";
+        }
+        return jono;
     }
 
     public int[] toIntArray() {
