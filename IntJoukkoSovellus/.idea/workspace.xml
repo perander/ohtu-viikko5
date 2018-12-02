@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" line="52" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" line="53" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97da0780-007d-4455-810d-5574fa0ae60b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/intjoukkosovellus/IntJoukko.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ohtu/intjoukkosovellus/IntJoukko.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkoKaksiparametrisellaKonstruktorillaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkoKaksiparametrisellaKonstruktorillaTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkoTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkoTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkuYksiparametrisellaKonstruktorillaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.IntJoukkuYksiparametrisellaKonstruktorillaTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.JoukkoOperaatiotTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ohtu.intjoukkosovellus.JoukkoOperaatiotTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ohtu.intjoukkosovellus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ohtu.intjoukkosovellus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkoKaksiparametrisellaKonstruktorillaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkoKaksiparametrisellaKonstruktorillaTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkoTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkuYksiparametrisellaKonstruktorillaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.IntJoukkuYksiparametrisellaKonstruktorillaTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.JoukkoOperaatiotTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ohtu.intjoukkosovellus.JoukkoOperaatiotTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ohtu/intjoukkosovellus/IntJoukko.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -45,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+            <state relative-caret-position="585">
+              <caret line="167" column="69" selection-start-line="167" selection-start-column="69" selection-end-line="167" selection-end-column="69" />
               <folding>
                 <element signature="e#3912#3913#0" expanded="true" />
                 <element signature="e#3947#3948#0" expanded="true" />
@@ -176,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543778796854" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543781535815" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,12 +188,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543760581773</updated>
-      <workItem from="1543760585216" duration="11876000" />
+      <workItem from="1543760585216" duration="14755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11876000" />
+    <option name="totallyTimeSpent" value="14755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="957" height="1053" extended-state="4" />
@@ -290,8 +272,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+        <state relative-caret-position="585">
+          <caret line="167" column="69" selection-start-line="167" selection-start-column="69" selection-end-line="167" selection-end-column="69" />
           <folding>
             <element signature="e#3912#3913#0" expanded="true" />
             <element signature="e#3947#3948#0" expanded="true" />
